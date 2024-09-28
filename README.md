@@ -1,6 +1,6 @@
-# Olá, sou [Raí Boaventura] 👋
+# Olá, sou Raí Boaventura 👋
 
-Seja bem-vindo ao meu GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e ciência. Tenho experiência em várias áreas, como redes, programação e banco de dados. Gosto de aprender coisas novas e estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos interessantes.
+Seja bem-vindo ao meu GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e ciência. Tenho experiência em várias áreas, como redes, programação e banco de dados. Gosto de aprender coisas novas e estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos interessantes. Atualmente faço estágio na Área de tecnologia.
 
 ## Sobre mim
 
