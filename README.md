@@ -6,7 +6,7 @@ Seja bem-vindo ao meu GitHub! Sou apaixonado por tecnologia, desenvolvimento de 
 
 - 🌱 Atualmente, estou aprendendo mais sobre **Java, C, modelagem de sistemas, redes**.
 - 📚 Meus interesses incluem **ciência, tecnologia e desenvolvimento de software**.
-- 🚀 Tenho experiência em **Python, Bash, HTML, CSS,JavaScript e**.
+- 🚀 Tenho experiência em **Python, Shell Script, HTML, CSS,JavaScript e Ruby**.
 - 🎯 Estou aberto a colaborar em projetos inovadores e desafiadores.
   
 ## Certificados
